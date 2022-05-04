@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Biblioteka_KP.Common;
 
-namespace Biblioteka_KP
+namespace Biblioteka_KP.Forms
 {
     public partial class LoginForm : Form
     {

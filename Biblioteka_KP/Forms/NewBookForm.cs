@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Biblioteka_KP
+namespace Biblioteka_KP.Forms
 {
     public partial class NewBookForm : Form
     {

@@ -1,4 +1,4 @@
-﻿namespace Biblioteka_KP
+﻿namespace Biblioteka_KP.Forms
 {
     partial class LoginForm
     {
